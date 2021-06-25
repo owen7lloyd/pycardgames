@@ -1,2 +1,2 @@
-# pyfish
-python gofish
+# pycardgames
+python based cardgames
